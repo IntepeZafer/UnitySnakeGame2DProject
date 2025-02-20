@@ -936,6 +936,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef009310a20c77c45877354d39d010d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gridArea: {fileID: 87203841}
 --- !u!1 &2003070250
 GameObject:
   m_ObjectHideFlags: 0
@@ -1043,7 +1044,7 @@ GameObject:
   - component: {fileID: 2047674150}
   m_Layer: 0
   m_Name: Snake
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
